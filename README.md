@@ -144,6 +144,7 @@ The implementation of robust prefix tuning is based on the [LAMOL](https://githu
 
 If you find this repository useful for your research, please consider citing our work:
 
+```
 @inproceedings{
   yang2022on,
   title={On Robust Prefix-Tuning for Text Classification},
@@ -152,3 +153,4 @@ If you find this repository useful for your research, please consider citing our
   year={2022},
   url={https://openreview.net/forum?id=eBCmOocUejf}
 }
+```
