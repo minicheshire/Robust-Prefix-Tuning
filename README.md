@@ -1,6 +1,6 @@
 # On Robust Prefix-Tuning for Text Classification
 
-Prefix-tuning has drawed much attention as it is a parameter-efficient and modular alternative to adapting pretrained language models to downstream tasks. However, we find that prefix-tuning suffers from adversarial attacks. While, unfortunately, current robust NLP methods are unsuitable for prefix-tuning as they will inevitably hamper the modularity of prefix-tuning. In our ICLR'22 [paper](https://openreview.net/forum?id=eBCmOocUejf), we propose robust prefix-tuning for text classification. Our method leverages the idea of test-time tuning, which preserves the strengths of prefix-tuning and improves its robustness at the same time. This repository contains the code for the proposed robust prefix-tuning method.
+Prefix-tuning has drawn much attention as it is a parameter-efficient and modular alternative to adapting pretrained language models to downstream tasks. However, we find that prefix-tuning suffers from adversarial attacks. While, unfortunately, current robust NLP methods are unsuitable for prefix-tuning as they will inevitably hamper the modularity of prefix-tuning. In our ICLR'22 [paper](https://openreview.net/forum?id=eBCmOocUejf), we propose robust prefix-tuning for text classification. Our method leverages the idea of test-time tuning, which preserves the strengths of prefix-tuning and improves its robustness at the same time. This repository contains the code for the proposed robust prefix-tuning method.
 
 ## Prerequisite
 
